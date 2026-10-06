@@ -1,0 +1,16 @@
+
+
+
+9. in the Typst layout system, the row-gutter parameter inside a grid element sets the vertical space between rows.
+
+
+
+16 Typst #let a = "lol"
+Why *#a* (with asterics) works? and why _#a_  (with undersores) yealds unclosed delimiter error?
+_#a;_ — the semicolon forces the expression to end.
+Braces: _#a;_ — the braces provide a clear boundary.
+Function call: #emph(a) — use the explicit function instead of the shortcut syntax.
+
+17. ==> as symbol
+
+18. table function,
